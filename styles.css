@@ -207,6 +207,7 @@ nav ul li a:hover {
   display: flex;
   gap: 50px;
   margin: 100px;
+  justify-content: center;
 }
 .project-content {
   border: 1px solid#868e96;
